@@ -22,8 +22,6 @@
             
             <tag> 微软 </tag>
             
-            <tag> 面经 </tag>
-            
         </tags>
       
     </entry>
@@ -40,16 +38,14 @@
       
       <categories>
           
-          <category> java基础 </category>
+          <category> java </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> java </tag>
-            
-            <tag> java关键字 </tag>
+            <tag> java基础 </tag>
             
         </tags>
       
